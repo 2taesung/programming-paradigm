@@ -8,3 +8,6 @@
     * [객체지향의 본질](undefined/1./undefined-3.md)
   * [2. 이상한 나라의 객체](undefined/2./README.md)
     * [객체지향과 인지 능력](undefined/2./undefined.md)
+    * [객체, 그리고 이상한 나라](undefined/2./undefined-1.md)
+    * [객체, 그리고 소프트웨어 나라](undefined/2./undefined-2.md)
+    * [기계로서의 객체](undefined/2./undefined-3.md)
