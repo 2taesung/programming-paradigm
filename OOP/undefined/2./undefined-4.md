@@ -42,3 +42,6 @@
 
 어떤 책임이 필요한가를 결정하는 과정이 전체 설계를 주도해야 한다. 일명 책임-주도 설계는 <mark style="background-color:green;">협력이라는 문맥 안에서 객체의 행동을 생각하도록 도움</mark>으로써 <mark style="background-color:green;">응집도 높고 재사용 가능한 객체</mark>를 만들 수 있게 한다.
 
+
+
+결론적인 말은 <mark style="background-color:green;">"행동이 상태를 결정한다"</mark>
