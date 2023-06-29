@@ -13,3 +13,4 @@
     * [기계로서의 객체](undefined/2./undefined-3.md)
     * [행동이 상태를 결정한다](undefined/2./undefined-4.md)
     * [은유와 객체](undefined/2./undefined-5.md)
+  * [3. 타입과 추상화](undefined/3..md)
