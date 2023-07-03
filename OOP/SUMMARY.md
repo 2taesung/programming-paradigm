@@ -16,3 +16,4 @@
   * [3. 타입과 추상화](undefined/3./README.md)
     * [추상화를 통한 복잡성 극복](undefined/3./undefined.md)
     * [객체지향과 추상화](undefined/3./undefined-1.md)
+    * [타입](undefined/3./undefined-2.md)
