@@ -18,3 +18,4 @@
     * [객체지향과 추상화](undefined/3./undefined-1.md)
     * [타입](undefined/3./undefined-2.md)
     * [타입의 계층](undefined/3./undefined-3.md)
+    * [정적 모델](undefined/3./undefined-4.md)
