@@ -19,3 +19,4 @@
     * [타입](undefined/3./undefined-2.md)
     * [타입의 계층](undefined/3./undefined-3.md)
     * [정적 모델](undefined/3./undefined-4.md)
+  * [4. 역할, 책임, 협력](undefined/4..md)
