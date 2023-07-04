@@ -28,7 +28,7 @@
 
 
 
-따라서 책임은 객체의 공용 인터페이스(public interface)를 구성
+따라서 <mark style="background-color:green;">책임은 객체의 공용 인터페이스(public interface)를 구성</mark>한다.
 
 
 
