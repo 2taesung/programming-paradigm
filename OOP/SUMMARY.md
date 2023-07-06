@@ -23,3 +23,4 @@
     * [협력](undefined/4./undefined.md)
     * [책임](undefined/4./undefined-1.md)
     * [역할](undefined/4./undefined-2.md)
+    * [객체의 모양을 결정하는 협력](undefined/4./undefined-3.md)
