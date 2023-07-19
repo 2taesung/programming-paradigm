@@ -28,3 +28,4 @@
   * [5. 책임과 메시지](undefined/5./README.md)
     * [자율적인 책임](undefined/5./undefined.md)
     * [메시지와 메서드](undefined/5./undefined-1.md)
+    * [메시지를 따라라](undefined/5./undefined-2.md)
