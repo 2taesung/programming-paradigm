@@ -30,3 +30,4 @@
     * [메시지와 메서드](undefined/5./undefined-1.md)
     * [메시지를 따라라](undefined/5./undefined-2.md)
     * [객체 인터페이스](undefined/5./undefined-3.md)
+    * [인터페이스와 구현의 분리](undefined/5./undefined-4.md)
