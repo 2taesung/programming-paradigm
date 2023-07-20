@@ -32,4 +32,5 @@
     * [객체 인터페이스](undefined/5./undefined-3.md)
     * [인터페이스와 구현의 분리](undefined/5./undefined-4.md)
     * [책임의 자율성이 협력의 품질을 결정한다](undefined/5./undefined-5.md)
-  * [6. 객체 지도](undefined/6..md)
+  * [6. 객체 지도](undefined/6./README.md)
+    * [기능 설계 대 구조 설계](undefined/6./undefined.md)
