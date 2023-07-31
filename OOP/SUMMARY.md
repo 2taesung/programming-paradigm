@@ -36,3 +36,4 @@
     * [기능 설계 대 구조 설계](undefined/6./undefined.md)
     * [두 가지 재료: 기능과 구조](undefined/6./undefined-1.md)
     * [안정적인 재료: 구조](undefined/6./undefined-2.md)
+    * [불안정한 재료: 기능](undefined/6./undefined-3.md)
