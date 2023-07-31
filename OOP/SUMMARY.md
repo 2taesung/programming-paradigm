@@ -34,3 +34,4 @@
     * [책임의 자율성이 협력의 품질을 결정한다](undefined/5./undefined-5.md)
   * [6. 객체 지도](undefined/6./README.md)
     * [기능 설계 대 구조 설계](undefined/6./undefined.md)
+    * [두 가지 재료: 기능과 구조](undefined/6./undefined-1.md)
