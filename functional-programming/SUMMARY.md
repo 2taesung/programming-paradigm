@@ -41,5 +41,4 @@
   * [11. 일급함수 2](functionalcoding/part-2/11.-2/README.md)
     * [함수를 리턴하는 함수](functionalcoding/part-2/11.-2/undefined.md)
     * [함수 리턴의 문제점](functionalcoding/part-2/11.-2/undefined-1.md)
-* [Page 1](functionalcoding/page-1.md)
 * [😃 형만님 세미나](functionalcoding/undefined-1.md)
