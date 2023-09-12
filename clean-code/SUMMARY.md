@@ -12,3 +12,4 @@
   * [11. 주석 : 유지보수와 변경의 정확성을 높이는 주석 작성 방법](undefined/undefined-1/11..md)
   * [12. 메서드(함수) : 좋은 클래스(컴포넌트)에는 좋은 메서드가 있다.](undefined/undefined-1/12.-..md)
   * [13. 모델링: 클래스 설계의 토대](undefined/undefined-1/13..md)
+  * [14. 리팩터링: 기존의 코드를 성장시키는 기술](undefined/undefined-1/14..md)
