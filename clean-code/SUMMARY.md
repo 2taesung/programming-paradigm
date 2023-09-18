@@ -13,3 +13,7 @@
   * [12. 메서드(함수) : 좋은 클래스(컴포넌트)에는 좋은 메서드가 있다.](undefined/undefined-1/12.-..md)
   * [13. 모델링: 클래스 설계의 토대](undefined/undefined-1/13..md)
   * [14. 리팩터링: 기존의 코드를 성장시키는 기술](undefined/undefined-1/14..md)
+
+## 6 육각형 개발자
+
+* [5장 응집도와 결합도](undefined-1/5.md)
